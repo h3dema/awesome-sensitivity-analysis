@@ -3,7 +3,7 @@
 A list of videos, books and paper about Sensitivity analysis
 
 
-## Books
+## Books and papers
 
 There are several books about the topic.
 
@@ -25,7 +25,19 @@ There are several books about the topic.
   - This book is a good help for researchers working with neural networks and machine learning.
 
 * Insua, D. R. Sensitivity analysis in multi-objective decision making. In Sensitivity Analysis in Multi-objective Decision Making (1990). Springer, Berlin, Heidelberg. ISBN 978-3-642-51656-6. https://www.springer.com/gp/book/9783540526926
- 
+
+* SHAP (SHapley Additive exPlanations) values
+  - Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. In Advances in neural information processing systems (pp. 4765-4774). http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
+  - Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). From local explanations to global understanding with explainable AI for trees. Nature machine intelligence, 2(1), 2522-5839. https://rdcu.be/b0z70
+  - Lundberg, Scott M., et al. "Explainable machine-learning predictions for the prevention of hypoxaemia during surgery." Nature biomedical engineering 2.10 (2018): 749-760. https://rdcu.be/baVbR
+
+## Machine learning explanability
+
+* https://github.com/jphall663/awesome-machine-learning-interpretability
+  - a very good list of machine learning interpretability resources.
+* https://github.com/jnikhilreddy/Explainable-AI-papers-Year-wise
+  - a list of papers in the area of Explainable Artificial Intelligence from 2014 up to 2020 (when I last checked).
+
 ## Videos
 
 | Video                | Lecturer | Description | URL                                         |
