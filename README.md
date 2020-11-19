@@ -26,6 +26,9 @@ There are several books about the topic.
 
 * Insua, D. R. Sensitivity analysis in multi-objective decision making. In Sensitivity Analysis in Multi-objective Decision Making (1990). Springer, Berlin, Heidelberg. ISBN 978-3-642-51656-6. https://www.springer.com/gp/book/9783540526926
 
+* NIST/SEMATECH e-Handbook of Statistical Methods. https://www.itl.nist.gov/div898/handbook/ or https://doi.org/10.18434/M32189.
+  - A large collection of statistics methods. Well organized, and covers lots of topics, including statistical analysis.
+
 * SHAP (SHapley Additive exPlanations) values
   - Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. In Advances in neural information processing systems (pp. 4765-4774). http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions
   - Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). From local explanations to global understanding with explainable AI for trees. Nature machine intelligence, 2(1), 2522-5839. https://rdcu.be/b0z70
