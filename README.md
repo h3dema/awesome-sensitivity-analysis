@@ -60,3 +60,4 @@ There are several books about the topic.
   | Scikit | https://scikit-learn.org/stable/inspection.html | Partial dependence plots and Permutation feature importance |
   | ELI5 | https://eli5.readthedocs.io/en/latest/ | Allows using ELI5 and LIME |
   | Yellowbrick | https://www.scikit-yb.org/en/latest/ | Support several visualizers. |
+  | Alibi | https://docs.seldon.io/projects/alibi/en/latest/ | Provides several methods for explanability : Accumulated Local Effects, Anchor explanations, Contrastive Explanation Method (CEM), Counterfactual Instances, Counterfactuals Guided by Prototypes, Kernel SHAP, Integrated gradients, Linearity Measure, and Trust Scores |
