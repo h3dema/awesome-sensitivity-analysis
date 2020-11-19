@@ -57,6 +57,7 @@ There are several books about the topic.
  |----------|-----|-------------|
   | Alibi | https://docs.seldon.io/projects/alibi/en/latest/ | Provides several methods for explanability : Accumulated Local Effects, Anchor explanations, Contrastive Explanation Method (CEM), Counterfactual Instances, Counterfactuals Guided by Prototypes, Kernel SHAP, Integrated gradients, Linearity Measure, and Trust Scores |
   | ELI5 | https://eli5.readthedocs.io/en/latest/ | Allows using ELI5 and LIME |
+  | PyMC3 | https://docs.pymc.io/ | Creates and analyses Bayesian nonparametric models |
   | SALib | https://salib.readthedocs.io/en/latest/ | Implements some commonly used sensitivity analysis methods, including Sobol, Morris, and FAST methods |
   | SAMIAM | http://reasoning.cs.ucla.edu/samiam/ | *Samiam* is a tool (in Java by UCLA) for modeling and reasoning with Bayesian networks with two main components: a graphical user interface and a reasoning engine. The GI lets users develop Bayesian network models, while the reasoning engine allows the execution of many tasks such as: classical inference; parameter estimation; time-space tradeoffs; sensitivity analysis; and explanation-generation based on MAP and MPE. ||
   | Scikit | https://scikit-learn.org/stable/inspection.html | Partial dependence plots and Permutation feature importance |
