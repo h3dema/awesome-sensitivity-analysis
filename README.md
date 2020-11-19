@@ -24,6 +24,7 @@ There are several books about the topic.
 978-3-642-02531-0. https://www.springer.com/gp/book/9783642025310
   - This book is a good help for researchers working with neural networks and machine learning.
 
+* Insua, D. R. Sensitivity analysis in multi-objective decision making. In Sensitivity Analysis in Multi-objective Decision Making (1990). Springer, Berlin, Heidelberg. ISBN 978-3-642-51656-6. https://www.springer.com/gp/book/9783540526926
  
 ## Videos
 
