@@ -51,4 +51,7 @@ There are several books about the topic.
  | 04-2 Sensitivity Analysis Global | Jef Caers | Presentation at Leland Stanford Junior University about Sobol indices and regionalized sensitivity analysis | https://www.youtube.com/watch?v=vBuWB9WuFhA | 
  | Samo 2016 : Sobol' sensitivity analysis | Iooss Bertrand | Lecture at Université de La Réunion about Sobol' sensitivity analysis for stochastic numerical codes | https://www.youtube.com/watch?v=TvA1Cmmkg20 | 
  
+ ## Software
  
+ * SAMIAM: http://reasoning.cs.ucla.edu/samiam/
+  - SamIam is a tool (in Java at UCLA) for modeling and reasoning with Bayesian networks with two main components: a graphical user interface and a reasoning engine. The GI lets users develop Bayesian network models, while the reasoning engine allows the execution of many tasks such as: classical inference; parameter estimation; time-space tradeoffs; sensitivity analysis; and explanation-generation based on MAP and MPE.
