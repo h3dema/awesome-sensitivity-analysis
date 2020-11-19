@@ -13,6 +13,7 @@ There are several books about the topic.
 * From Cacuci
   - Cacuci, D. G., Ionescu-Bujor, M., & Navon, I. M. (2005). Sensitivity and uncertainty analysis, volume II: applications to large-scale systems (Vol. 2). CRC press.
   - [Paper] Cacuci, D. G., & Ionescu-Bujor, M. (2004). A comparative review of sensitivity and uncertainty analysis of large-scale systems—II: statistical methods. Nuclear science and engineering, 147(3), 204-217.
+  - Cacuci, D. G. Sensitivity and Uncertainty Analysis: Theory. Volume 1. (2003).
   
 * From Saltelli
   - Saltelli, A., Ratto, M., Andres, T., Campolongo, F., Cariboni, J., Gatelli, D., ... & Tarantola, S. (2008). Global sensitivity analysis: the primer. John Wiley & Sons.
