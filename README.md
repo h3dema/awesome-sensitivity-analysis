@@ -53,8 +53,8 @@ There are several books about the topic.
 | Sensitivity analysis | Jelena Srebric | Summary of local and global methods | https://www.youtube.com/watch?v=3wNxZcvRdPI |
 | Using the SALib library for conducting sensitivity analyses of models | Will Usher | Presentation at PyData 2015 about a library that performs sensitivity analysis on Python with step-by-step examples | https://www.youtube.com/watch?v=gkR_lz5OptU |
 | Sensitivity Analysis in Bayesian networks | Adnan Darwiche | Chapter 16 of a UCLA course -- Learning and Reasoning with Bayesian Networks. Discusses the relationship between network parameters and queries. Explores how one can bound changes to queries in terms of changes to parameters; how one can change parameters to ensure some constraints on the results of queries; and how one can measure change to parameters so as to provide guarantees on the network robustness. | https://www.youtube.com/watch?v=S3sefsvWfDQ |
- | 04-1 Local Sensitivity Analysis | Jef Caers |: Presentation at Leland Stanford Junior University about Sobol indices and regionalized sensitivity analysis :|| https://www.youtube.com/watch?v=P8Rfipkid3w | 
- | 04-2 Sensitivity Analysis Global | Jef Caers | ^^ || https://www.youtube.com/watch?v=vBuWB9WuFhA | 
+ | 04-1 Local Sensitivity Analysis | Jef Caers | Presentation at Leland Stanford Junior University about Sobol indices and regionalized sensitivity analysis | https://www.youtube.com/watch?v=P8Rfipkid3w | 
+ | 04-2 Sensitivity Analysis Global | Jef Caers |  | https://www.youtube.com/watch?v=vBuWB9WuFhA | 
  | Samo 2016 : Sobol' sensitivity analysis | Iooss Bertrand | Lecture at Université de La Réunion about Sobol' sensitivity analysis for stochastic numerical codes | https://www.youtube.com/watch?v=TvA1Cmmkg20 | 
  
  ## Software
