@@ -34,6 +34,11 @@ There are several books about the topic.
   - Lundberg, S. M., Erion, G., Chen, H., DeGrave, A., Prutkin, J. M., Nair, B., ... & Lee, S. I. (2020). **From local explanations to global understanding with explainable AI for trees**. Nature machine intelligence, 2(1), 2522-5839. https://rdcu.be/b0z70
   - Lundberg, Scott M., et al. **Explainable machine-learning predictions for the prevention of hypoxaemia during surgery**. Nature biomedical engineering 2.10 (2018): 749-760. https://rdcu.be/baVbR
 
+* Bayesian models
+  - Liew, S. X., Afrasiabi, M., & Austerweil, J. L. (2019). An introduction to data analysis using the PyMC3 probabilistic programming framework: A case study with Gaussian Mixture Modeling.
+  - Volpatto, D., Oliveira, L. V., Bittencourt, S. P., Silva, D., & Manoel, E. (2020). Sensitivity analysis, calibration and uncertainty quantification for heavy oil viscosity estimates with a corresponding states model.
+  - Jacobs, C. (2020). ``Sensie``: Probing the sensitivity of neural networks. Journal of Open Source Software, 5(50), 2180.
+
 ## Machine learning explanability
 
 * https://github.com/jphall663/awesome-machine-learning-interpretability
